@@ -1,19 +1,10 @@
-# Three‑Phase Measurement System (LabVIEW)
+# Output Characteristics of BJT (BC547) — LabVIEW & NI USB-6001
 
-LabVIEW-based **three‑phase measurement & visualisation** project: live oscilloscope plots for voltages/currents and **phasor (vector) diagram**.
+This repository contains my **Measurement & Instrumentation (M.Sc.)** project: a LabVIEW system that measures and plots the **output characteristics (IC vs UCE)** of a **BC547** NPN transistor using an **NI USB-6001** DAQ.
 
-## Features
-- Time‑domain oscilloscope for 3‑phase **u1, u2, u3 / i1, i2, i3**
-- **Phasor** display with adjustable phase shift
-- Scaling/phase controls and degree↔radian conversion blocks
+## 🚀 Overview
+- Plot **IC–UCE** families for several **IB** values to observe **cut-off**, **active**, and **saturation** regions.
+- Live numeric indicators for **UB, UBE, IB, UC, UCE, IC** (plus temperature if enabled).
+- Helper analog stage (LM324) with gain ≈ **4.03** on the UC path.
 
-## Repository Contents
-- `labview/screenshots/` – front‑panel and block‑diagram captures
-- `docs/` – setup, results, and description
-- `LICENSE`, `.gitignore`
-
-> Add your LabVIEW file as `labview/Three_Phase_Measurement_System.vi` before pushing.
-
-## Preview
-![Front Panel](labview/screenshots/front_panel.png)
-![Oscilloscope](labview/screenshots/oscilloscope.png)
+## 📁 Repository Structure
