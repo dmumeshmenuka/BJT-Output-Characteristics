@@ -1,0 +1,3 @@
+*.vi binary
+docs/* linguist-documentation
+report/* linguist-documentation
