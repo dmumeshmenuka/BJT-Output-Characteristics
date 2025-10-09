@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+authors:
+  - family-names: Dipto
+    given-names: Md Shahriar
+  - family-names: Sanga
+    given-names: Nikhil Shrikrishna
+title: Output Characteristics of BJT (BC547) — LabVIEW & NI USB‑6001
+version: 1.0.0
+date-released: 2025-10-09
+license: MIT
